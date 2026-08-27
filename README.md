@@ -27,7 +27,7 @@ authority rather than a loss of stability.
 ## Contents
 
 ```
-media/      Supplementary videos and simulation animation
+media/      Supplementary videos
 paper/      Accepted version of the manuscript (see licensing below)
 ```
 
@@ -35,9 +35,8 @@ paper/      Accepted version of the manuscript (see licensing below)
 
 | File | What it shows |
 |---|---|
-| `soft_pvtol_teststand.*` | Test-stand validation of the passive-arm Soft-PVTOL: pitch tracking via differential thrust with tendons disabled, and passive convergence of the arm curvatures. This is the experiment reported in Section V of the paper. |
-| `quadsoft_freeflight.*` | Free flight of the QuadSoft, a three-dimensional soft-arm quadrotor, with deactivated tendons, including an in-flight tendon-deactivation test. |
-| `simulation_animation.*` | Takeoff-and-hover simulation of the passive-arm Soft-PVTOL. |
+| `soft_pvtol_teststand.mp4` | Test-stand validation of the passive-arm Soft-PVTOL: pitch tracking via differential thrust with tendons disabled, and passive convergence of the arm curvatures. This is the experiment reported in Section V of the paper. It also includes an animation of the takeoff-and-hover simulation. |
+| `quadsoft_freeflight.mp4` | Free flight of the QuadSoft, a three-dimensional soft-arm quadrotor, with deactivated tendons, including an in-flight tendon-deactivation test. |
 
 **On the QuadSoft recordings.** The analysis in the paper is planar and its
 scope is the Soft-PVTOL. The QuadSoft free-flight videos are qualitative

@@ -1,11 +1,17 @@
 # Do Tendons Matter? Controllability of a Soft-PVTOL with Passive Elastic Arms
 
-Supplementary material for the IEEE Robotics and Automation Letters paper
-*"Do Tendons Matter? Controllability of a Soft-PVTOL with Passive Elastic Arms"*
+Supplementary material for the IEEE Robotics and Automation Letters paper  
+*"Do Tendons Matter? Controllability of a Soft-PVTOL with Passive Elastic Arms"*  
 by Gerardo Flores, Rodolfo Verdín, and Mark W. Spong.
 
 RAPTOR Lab, Texas A&M International University · Centro de Investigaciones en
 Óptica · University of Texas at Dallas
+
+## Paper
+
+Published in **IEEE Robotics and Automation Letters**.
+
+[DOI: 10.1109/LRA.2026.3734876](https://doi.org/10.1109/LRA.2026.3734876)
 
 ---
 
